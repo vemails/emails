@@ -1,0 +1,7 @@
+gspread
+beautifulsoup4
+selenium
+pyTelegramBotAPI
+bs4
+lxml
+httpx[http2]
